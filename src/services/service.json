@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "creationDate": "2023-01-01",
+    "typeService": "instalacion",
+    "technical": "Jose Tores",
+    "clientId": 1,
+    "visitDay": "2023-01-05",
+    "address": "calle 12a #25-34",
+    "phone": 3126545420,
+    "email": "hola@gmail.com",
+    "comments": "llamar antes de ir"
+  },
+  {
+    "id": 2,
+    "creationDate": "2023-01-01",
+    "typeService": "instalacion",
+    "technical": "Jose Tores",
+    "clientId": 2,
+    "visitDay": "2023-01-05",
+    "address": "calle 12a #25-34",
+    "phone": 3126545420,
+    "email": "hola@gmail.com",
+    "comments": "llamar antes de ir"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "askForPassword": true,
+      "driver": "PostgreSQL",
+      "name": "postgre-db",
+      "username": "postgres",
+      "database": "didier"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "mysql-db",
+      "database": "didier",
+      "username": "admin",
+      "password": "1234"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "POSTGRES2",
+      "database": "didier",
+      "username": "admin",
+      "password": "1234"
+    }
+  ]
+}
